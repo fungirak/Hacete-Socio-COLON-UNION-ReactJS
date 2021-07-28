@@ -1,0 +1,90 @@
+body{
+    overflow-x: hidden;
+}
+
+.text-shadow{
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+
+.altura-carnet {
+    height: 10em;
+}
+
+.posicion{
+    margin: auto;
+}
+
+.text-overflow{
+    text-overflow:ellipsis;
+}
+
+.foto-carnet{
+    height: 6em;
+    width: 5em;
+    margin: 1em;
+}
+
+.tamaño{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    padding: .5em;
+    background: black;
+}
+
+.fondo-colon{
+    background-image: url('/src/img/estadio-colon.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.fondo-union{
+    background-image: url('/src/img/estadio-union.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.fondo-santa-fe{
+    background-image: url('/src/img/santa-fe.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: 45%;
+    width: 100vw;
+    height: 100vh;
+}
+
+.logo-pequeño{
+    width: 2.5em;
+    height: 2.5em;
+    margin: .3em;
+}
+
+.logo-cerveza{
+    width: 140px;
+    height: 4em;
+    margin-top: -.6em;
+    position: absolute;
+}
+
+@keyframes latido {
+    0%{
+        transform: scale(1,1);
+        transition: .7s;
+    }
+    50%{
+        transform: scale(1.4, 1.4);
+        transition: .7s;
+    }
+    100%{
+        transform: scale(1,1);
+        transition: .7s;
+    }
+}
+
+.latido{
+   animation-name: latido;
+   animation-duration: 2s;
+   animation-iteration-count: infinite;
+   animation-delay: 0;
+}
