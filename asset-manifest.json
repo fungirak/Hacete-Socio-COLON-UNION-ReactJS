@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Hacete-Socio-COLON-UNION-ReactJS/static/css/main.a6e740c1.chunk.css",
-    "main.js": "/Hacete-Socio-COLON-UNION-ReactJS/static/js/main.337a0c67.chunk.js",
-    "main.js.map": "/Hacete-Socio-COLON-UNION-ReactJS/static/js/main.337a0c67.chunk.js.map",
+    "main.css": "/Hacete-Socio-COLON-UNION-ReactJS/static/css/main.42ce3697.chunk.css",
+    "main.js": "/Hacete-Socio-COLON-UNION-ReactJS/static/js/main.b296bfe9.chunk.js",
+    "main.js.map": "/Hacete-Socio-COLON-UNION-ReactJS/static/js/main.b296bfe9.chunk.js.map",
     "runtime-main.js": "/Hacete-Socio-COLON-UNION-ReactJS/static/js/runtime-main.1cb64437.js",
     "runtime-main.js.map": "/Hacete-Socio-COLON-UNION-ReactJS/static/js/runtime-main.1cb64437.js.map",
     "static/css/2.455652b6.chunk.css": "/Hacete-Socio-COLON-UNION-ReactJS/static/css/2.455652b6.chunk.css",
@@ -10,17 +10,18 @@
     "static/js/2.8c475ad8.chunk.js.map": "/Hacete-Socio-COLON-UNION-ReactJS/static/js/2.8c475ad8.chunk.js.map",
     "index.html": "/Hacete-Socio-COLON-UNION-ReactJS/index.html",
     "static/css/2.455652b6.chunk.css.map": "/Hacete-Socio-COLON-UNION-ReactJS/static/css/2.455652b6.chunk.css.map",
-    "static/css/main.a6e740c1.chunk.css.map": "/Hacete-Socio-COLON-UNION-ReactJS/static/css/main.a6e740c1.chunk.css.map",
+    "static/css/main.42ce3697.chunk.css.map": "/Hacete-Socio-COLON-UNION-ReactJS/static/css/main.42ce3697.chunk.css.map",
     "static/js/2.8c475ad8.chunk.js.LICENSE.txt": "/Hacete-Socio-COLON-UNION-ReactJS/static/js/2.8c475ad8.chunk.js.LICENSE.txt",
     "static/media/escudo-colon.ebd33c2c.png": "/Hacete-Socio-COLON-UNION-ReactJS/static/media/escudo-colon.ebd33c2c.png",
     "static/media/escudo-union.370ccc3f.png": "/Hacete-Socio-COLON-UNION-ReactJS/static/media/escudo-union.370ccc3f.png",
-    "static/media/estilos.css": "/Hacete-Socio-COLON-UNION-ReactJS/static/media/santa-fe.ba7d9577.jpg"
+    "static/media/estilos.css": "/Hacete-Socio-COLON-UNION-ReactJS/static/media/santa-fe.ba7d9577.jpg",
+    "static/media/ubicacion.64cdcb0e.png": "/Hacete-Socio-COLON-UNION-ReactJS/static/media/ubicacion.64cdcb0e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1cb64437.js",
     "static/css/2.455652b6.chunk.css",
     "static/js/2.8c475ad8.chunk.js",
-    "static/css/main.a6e740c1.chunk.css",
-    "static/js/main.337a0c67.chunk.js"
+    "static/css/main.42ce3697.chunk.css",
+    "static/js/main.b296bfe9.chunk.js"
   ]
 }
